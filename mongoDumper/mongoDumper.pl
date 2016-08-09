@@ -27,7 +27,7 @@ sub mongo_dump {
     my $mongo_user = 'user';
     my $mongo_pass = 'password';
     my $mongo_db_name = 'database_name';
-    my $collection = 'exampleCollection'
+    my $collection = 'exampleCollection';
 
     my $client     = MongoDB::MongoClient->new(
                         host => $mongo_host,
