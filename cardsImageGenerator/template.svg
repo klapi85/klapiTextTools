@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="templateStarTrek.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.80945773"
+     inkscape:cx="5.5592773"
+     inkscape:cy="617.07978"
+     inkscape:window-width="2560"
+     inkscape:window-height="1566"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.389388"
+       id="rect2"
+       width="209.40231"
+       height="296.76889"
+       x="0.4622539"
+       y="-4.4720327e-06"
+       ry="1.8300222"
+       inkscape:label="Background-black" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#c44150;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.309575;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4517-2"
+       width="66.415535"
+       height="3.4862733"
+       x="137.2106"
+       y="33.211258"
+       ng-class="{&quot;red-alert-polygon-2C&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-2C&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-3&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal' }"
+       inkscape:label="rect12" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#de4869;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.309259;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4517"
+       width="66.280144"
+       height="3.4862733"
+       x="136.86888"
+       y="26.890512"
+       ng-class="{&quot;red-alert-polygon-2C&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-2C&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-3&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal' }"
+       inkscape:label="rect11" />
+    <rect
+       y="96.587875"
+       x="4.6743593"
+       height="30.069109"
+       width="25.81913"
+       id="rect4542-2"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cc6666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.209646;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       ng-class="{&quot;red-alert-polygon-1C&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-1C&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-6&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal'  }"
+       inkscape:label="rect05" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff4444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.209605;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4544"
+       width="25.809216"
+       height="8.4977989"
+       x="4.7107081"
+       y="86.239532"
+       ng-class="{&quot;red-alert-polygon-1B&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-1B&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-7&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal'  }"
+       inkscape:label="rect04" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff4444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.209998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4544-7"
+       width="25.905804"
+       height="8.4977989"
+       x="4.6548343"
+       y="128.36577"
+       ng-class="{&quot;red-alert-polygon-1B&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-1B&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-7&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal'  }"
+       inkscape:label="rect04" />
+    <rect
+       y="54.741894"
+       x="4.8688145"
+       height="30.069109"
+       width="26.041195"
+       id="rect4542"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#aa3939;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.210545;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       ng-class="{&quot;red-alert-polygon-1C&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-1C&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-6&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal'  }"
+       inkscape:label="rect03" />
+    <rect
+       y="138.5314"
+       x="4.6736188"
+       height="64.880219"
+       width="25.953671"
+       id="rect4542-9"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#aa3939;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.308753;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       ng-class="{&quot;red-alert-polygon-1C&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-1C&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-6&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal'  }"
+       inkscape:label="rect03" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.85652px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:0.821379"
+       x="64.808403"
+       y="269.90961"
+       id="text6-1"
+       transform="scale(1.0969763,0.91159672)"
+       inkscape:label="text-caption-rules"><tspan
+         sodipodi:role="line"
+         id="tspan6-13"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.821379"
+         x="64.808403"
+         y="269.90961">Caption text</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#cd4a57;stroke-width:1.2841;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect3"
+       width="170.30411"
+       height="181.18556"
+       x="33.772713"
+       y="41.150402"
+       ry="4.3909764"
+       inkscape:label="image-frame" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.6248px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke-width:1.30207"
+       x="8.0174484"
+       y="105.97631"
+       id="text6"
+       transform="scale(0.89326438,1.1194894)"
+       inkscape:label="text-attack-bonus"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="fill:#000000;fill-opacity:1;stroke-width:1.30207"
+         x="8.0174484"
+         y="105.97631">+5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.6248px;writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke-width:1.30207"
+       x="90.904816"
+       y="16.886477"
+       id="text6-3"
+       transform="scale(0.89326438,1.1194894)"
+       inkscape:label="text-card-title"><tspan
+         sodipodi:role="line"
+         id="tspan6-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.30207"
+         x="90.904816"
+         y="16.886477">Card Title</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9912px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ff555f;fill-opacity:1;stroke-width:0.99927"
+       x="112.89796"
+       y="32.402195"
+       id="text6-3-4"
+       transform="scale(0.87716595,1.1400351)"
+       inkscape:label="text-card-bitwa"><tspan
+         sodipodi:role="line"
+         id="tspan6-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9912px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff555f;fill-opacity:1;stroke-width:0.99927"
+         x="112.89796"
+         y="32.402195">BITWA</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4540"
+       d="m 4.8927759,53.289644 v -6.536763 c 0,-7.408329 8.3345641,-13.509313 17.8888191,-13.509313 h 75.214359 v 3.486277 H 40.126319 c -5.757645,0 -9.213443,2.614707 -9.213443,6.514061 v 10.045738 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cc6666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21046;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       ng-class="{&quot;red-alert-polygon-1D&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-1D&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-5&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal'  }"
+       inkscape:label="path02" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff9999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.210905;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 4.6251359,5.9154088 V 16.810013 c 0,7.408334 8.3698851,13.509314 17.9646291,13.509314 H 98.122869 V 26.833054 H 40.007994 c -5.782045,0 -9.252488,-2.614707 -9.252488,-6.514062 V 5.9154088 Z"
+       id="rect4511"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       ng-class="{&quot;red-alert-polygon-2B&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-2B&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-2&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal' }"
+       inkscape:label="path01" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff9999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.209426;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 4.8721273,204.84067 v 10.8946 c 0,7.40834 8.2528417,13.50932 17.7134137,13.50932 h 74.47685 v -3.48628 H 39.760195 c -5.701189,0 -9.123102,-2.6147 -9.123102,-6.51406 v -14.40358 z"
+       id="rect4511-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       ng-class="{&quot;red-alert-polygon-2B&quot;: itemState('S_LCARS_L3Condition') == 'red', &quot;blue-alert-polygon-2B&quot;: itemState('S_LCARS_L3Condition') == 'blue', &quot;yellow-alert-polygon&quot;: itemState('S_LCARS_L3Condition') == 'yellow', &quot;party-mode-polygon-2&quot;: itemState('S_SYSP_SceneL3') == '57' &amp;&amp; itemState('S_LCARS_L3Condition') == 'normal' }"
+       inkscape:label="path01" />
+  </g>
+</svg>
